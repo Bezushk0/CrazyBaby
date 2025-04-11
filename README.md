@@ -44,7 +44,7 @@ Developed based on a Figma prototype to ensure visual consistency and branding a
 
 The project is live and accessible at:
 
-[**CrazyBaby Landing Page**](https://bezushk0.github.io/Kickstarter)
+[**CrazyBaby Landing Page**](https://bezushk0.github.io/CrazyBaby/)
 
 ---
 
